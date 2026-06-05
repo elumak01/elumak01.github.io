@@ -3,7 +3,7 @@ layout: post
 title: "Why Your Environment Needs OAuth Apps"
 date: 2026-06-06
 ---
-
+## 
 If you've been working with Azure AD, GitHub, Google Workspace, or any modern platform, you've probably come across OAuth apps — or at least heard someone say "we need to register an app for this." But do you actually know why they exist, what problems they solve, and what risks they bring with them? Let's break it down.
 So, What Is an OAuth App?
 An OAuth app is basically an identity broker. It's how your application, script, or service gets permission to access resources — either on behalf of a signed-in user, or on its own as a background service — without ever touching a raw password.
@@ -68,4 +68,4 @@ Final Thoughts
 OAuth apps are a fundamental part of modern identity architecture — and when configured correctly, they're one of the safest ways to manage access across your environment. But like most security tools, the risk doesn't come from the technology itself. It comes from how it's managed (or mismanaged) over time.
 The key takeaway? Don't just register an app and forget about it. Treat every OAuth app like an access decision that needs to be reviewed, monitored, and eventually cleaned up.
 👋 Have questions or want to share how you handle OAuth app governance in your org? Drop a comment below.
-
+##
