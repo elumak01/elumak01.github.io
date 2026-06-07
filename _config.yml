@@ -4,5 +4,3 @@ author: Kumaran Elumalai
 baseurl: ""
 url: "https://elumak01.github.io"
 theme: minima
-feed:
-  disable: true
