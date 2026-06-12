@@ -5,7 +5,7 @@ date: 2026-06-12
 categories: [Security, Microsoft 365]
 tags: [OAuth, Entra ID, Microsoft 365, Security]
 ---
-# How Attackers Abuse OAuth in Microsoft 365 — Techniques, Real-World Campaigns, and Defences
+# How Attackers Abuse OAuth in Microsoft Entra Tenants — Techniques, Real-World Campaigns, and Defences
 
 If you manage a Microsoft Azure environment, you've likely come across the term "OAuth attack" in threat reports or security advisories. It's worth understanding what's actually behind it — OAuth covers a wide range of flows and attack techniques, and the specifics matter when it comes to configuring the right controls in your tenant.
 
