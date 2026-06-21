@@ -46,7 +46,7 @@ Two objections come up constantly, and neither holds up well:
 - **Licensing** — PIM needs Entra ID P2 or Entra ID Governance, but you only need to license the accounts that hold privileged roles, not your whole tenant. For most orgs that's a handful of seats, not hundreds.
 - **Complexity** — initial setup is portal-driven. You don't need scripts or automation to get real value on day one; that comes later if you want it.
 
-If you're running any tenant with standing tier 0 admin roles (Ex: GA, Security Admin, Priv role admin+..) right now, this is worth fixing before anything else on your security backlog. this is applies to other tier 0 roles
+If you're running any tenant with standing tier 0 admin roles right now, this is worth fixing before anything else on your security backlog. this is applies to other tier 0 roles
 
 ## Next in this series
 
