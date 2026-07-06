@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Least Privilege on a Clock: What PIM Actually Solves"
+title: "PIM-01 — Least Privilege on a Clock: What PIM Actually Solves"
 date: 2026-06-19
 categories: [identity, azure, security]
 tags: [PIM, Entra ID, Privileged Identity Management, Zero Trust]
