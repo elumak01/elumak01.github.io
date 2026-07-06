@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 3 Essential Conditional Access Policies Every Tenant Should Have"
+title: "CA-02 — The 3 Essential Conditional Access Policies Every Tenant Should Have"
 date: 2026-06-20
 categories: [identity, azure, security]
 tags: [Conditional Access, Entra ID, Zero Trust, MFA]
