@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Attackers Abuse OAuth in Microsoft Entra Tenants — Techniques, Real-World Campaigns, and Defences"
+title: "OA02 - How Attackers Abuse OAuth in Microsoft Entra Tenants — Techniques, Real-World Campaigns, and Defences"
 date: 2026-06-12
 categories: [Security, Microsoft 365]
 tags: [OAuth, Entra ID, Microsoft 365, Security]
