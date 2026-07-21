@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OAUTH-01 — OAuth 2.0 Explained — The Foundations"
+title: "OA-01 — OAuth 2.0 Explained — The Foundations"
 date: 2026-05-30
 categories: [identity, security]
 tags: [OAuth, Entra ID, Microsoft 365, Zero Trust]
